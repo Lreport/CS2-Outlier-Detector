@@ -1,0 +1,19 @@
+{
+  "id": "f950356c-8080-414a-bdc0-b8cd94974356",
+  "name": "SEA 5V5 Queue",
+  "game": "cs2",
+  "region": "SEA",
+  "icon": "",
+  "short_description": "",
+  "long_description": "The game consists of 24 rounds, with each team switching sides after 12 rounds. The first team to win 13 rounds wins the match, with overtime series played if the game ends in a tie. The round time is 1m 55s and the bomb timer is 40s. Match starts with a knife round.\n\nWinner team's captain gets the right to choose the starting side.",
+  "queues": [
+    {
+      "id": "64ca73d75b529f4d694e6e44",
+      "name": "CS2 5v5 SEA",
+      "organizer_id": "faceit",
+      "open": true,
+      "paused": false
+    }
+  ],
+  "league_id": "28a4aadb-a2c0-4de9-8b8d-491919fe7db5"
+}

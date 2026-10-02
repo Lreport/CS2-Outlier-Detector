@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+
+data/cache/
+data/season9_top500/ranking_raw/
+data/season9_top500/players/

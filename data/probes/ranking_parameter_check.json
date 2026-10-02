@@ -1,0 +1,5 @@
+{
+  "public_current_url": "https://api.faceit.com/ranking/v1/globalranking/cs2/EU?offset=0&limit=3",
+  "season8_query_same_payload_as_current": true,
+  "note": "O parametro season=8 nesta rota nao demonstrou selecionar a classificacao historica."
+}

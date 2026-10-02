@@ -1,0 +1,12 @@
+[
+  {
+    "name": "website_season8",
+    "url": "https://www.faceit.com/pt/cs2/rank/matchmaking?country=none&region=EU&season=8",
+    "status": 403
+  },
+  {
+    "name": "public_ranking_season8",
+    "url": "https://api.faceit.com/ranking/v1/globalranking/cs2/EU?offset=0&limit=3&season=8",
+    "status": 200
+  }
+]

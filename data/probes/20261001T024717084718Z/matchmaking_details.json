@@ -1,0 +1,82 @@
+{
+  "id": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+  "name": "Europe 5v5 Queue",
+  "game": "cs2",
+  "region": "EU",
+  "icon": "",
+  "short_description": "",
+  "long_description": "The game consists of 24 rounds, with each team switching sides after 12 rounds. The first team to win 13 rounds wins the match, with overtime series played if the game ends in a tie. The round time is 1m 55s and the bomb timer is 40s. Match starts with a knife round.\n\nWinner team's captain gets the right to choose the starting side.",
+  "queues": [
+    {
+      "id": "6488bb8e09d02466271f097a",
+      "name": "CS2 5v5 EU - default",
+      "organizer_id": "faceit",
+      "open": true,
+      "paused": false
+    },
+    {
+      "id": "66140674f2200d1bec86ffd8",
+      "name": "CS2 5v5 EU - 2001-2900",
+      "organizer_id": "faceit",
+      "open": true,
+      "paused": false
+    },
+    {
+      "id": "6614fd3bf5b25b4b1d1d31d0",
+      "name": "CS2 5v5 EU - Region Ru",
+      "organizer_id": "faceit",
+      "open": true,
+      "paused": false
+    },
+    {
+      "id": "66574e4142b2705d523a48a4",
+      "name": "CS2 5v5 EU - 1200 Region Ru",
+      "organizer_id": "faceit",
+      "open": true,
+      "paused": false
+    },
+    {
+      "id": "666033f7fbabd66f9a6f26ee",
+      "name": "CS2 5v5 EU - 1200-2000",
+      "organizer_id": "faceit",
+      "open": true,
+      "paused": false
+    },
+    {
+      "id": "69e9fe1ebb8d79911036dfb3",
+      "name": "CS2 5v5 EU - default 2",
+      "organizer_id": "faceit",
+      "open": false,
+      "paused": false
+    },
+    {
+      "id": "69ea0b82b3794b703fff2c44",
+      "name": "CS2 5v5 EU - 1200-2000 2",
+      "organizer_id": "faceit",
+      "open": false,
+      "paused": false
+    },
+    {
+      "id": "69ea0f5f08fac2b34aa7d8ef",
+      "name": "CS2 5v5 EU - Region Ru 2",
+      "organizer_id": "faceit",
+      "open": false,
+      "paused": false
+    },
+    {
+      "id": "69ea1ac28065849f22b3bde9",
+      "name": "CS2 5v5 EU - 1200 Region Ru 2",
+      "organizer_id": "faceit",
+      "open": false,
+      "paused": false
+    },
+    {
+      "id": "69ea1c69f95fd45903c5fad9",
+      "name": "CS2 5v5 EU - 2001-2900 2",
+      "organizer_id": "faceit",
+      "open": false,
+      "paused": false
+    }
+  ],
+  "league_id": "ede44bb8-89f1-4059-b112-eadc28e332fd"
+}

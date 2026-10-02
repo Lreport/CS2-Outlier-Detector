@@ -1,0 +1,35 @@
+{
+  "metric": "sum(kills)/sum(deaths)",
+  "group": "Top 500 EU at capture",
+  "period_unit": "seven calendar days UTC",
+  "min_matches": 1,
+  "quartiles": "linear",
+  "iqr_multiplier": 1.5,
+  "donk_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+  "donk_eligible_weeks": 7,
+  "donk_positive_outlier_weeks": 2,
+  "audit": {
+    "input_rows": 83340,
+    "exact_duplicates_removed": 0,
+    "outside_cohort_rows": 0,
+    "outside_period_rows": 0,
+    "eligible_player_match_rows": 83340,
+    "missing_player_match_rows": 33,
+    "incomplete_player_weeks": 33
+  },
+  "input_manifest_sha256": "8012d822e149b41efc6dcc8b02f4d707876a0ef576ba416a3352ec86975e9f88",
+  "verification_sha256": "30337af83a7965e08b340a403dfb50e3655dd4fd358eb740eb6fb8c889778a5f",
+  "output_sha256": {
+    "boxplot_semanal.pdf": "d69c980b5ab052417acabb6b890e558648e625426fb3fdff40546797e8bdfad9",
+    "boxplot_semanal.png": "7ca0bdd6dc448d0566624799efb2a1b4b34b1c65486685ac76bdd6c06feb4f05",
+    "boxplot_semanal.svg": "9bc3efdf44bc7a71dda766d6540db4ea229e4ace2551018085dc09c7d7b603c3",
+    "donk_weekly.csv": "a2ca8761a972735e2ee5cb0a39ef2dfcb57b8a1df3ea322a9ed10af725891e4a",
+    "excluded_player_weeks.csv": "0e730a7be5bde10fbfc09254f9eb97e9f6d71ef9fd933ac9d3aa44e3555b503d",
+    "outliers.csv": "8920798babfd3901c1e4d318dccebdce7e2549d36b664c5904fb429ce8cb3363",
+    "outlier_recurrence.csv": "d3a320c5af062df7bfff64461252c2df0057b379e635b36bb9e5779df4cf301a",
+    "player_weeks.csv": "d893a8cb82b9eb0274ebf259b40179ab536c59587e3897802884cd7065bd1d56",
+    "relatorio.md": "2e6336d9b2c2aaee56d9cec4bd1e4092a40cfa4ed07549a048419ccb0b9d4ce4",
+    "sensitivity_donk.csv": "1bdc1f897f87c6a0b3f30dcf9ccdf8c0eb9a623eb2a0d8aad4fdfa51e5e8eb47",
+    "weekly_statistics.csv": "de074a5cc92dc493fe95b3c878a0000715c0ef7741a4bcbfa4f05079048454f5"
+  }
+}

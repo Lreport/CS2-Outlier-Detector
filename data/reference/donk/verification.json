@@ -1,0 +1,44 @@
+{
+  "scope": "Somente donk; não representa a lista final Challenger EU.",
+  "config": {
+    "dataset_kind": "official",
+    "season": 8,
+    "region": "EU",
+    "start_utc": "2026-04-22T11:00:00Z",
+    "end_utc": "2026-08-04T11:00:00Z",
+    "boundaries_source": {
+      "date": "https://support.faceit.com/hc/en-us/articles/26530513602716-FACEIT-Season-8-FACEIT-Rating-FAQ",
+      "start_time": "https://www.reddit.com/r/FACEITcom/comments/1ssgpae/season_8_begins_today_at_1300_cest_make_sure_you/",
+      "end_time": "https://www.reddit.com/r/FACEITcom/comments/1up38ge/season_8_ends_august_4_at_1259_cest/",
+      "interpretation": "CEST = UTC+02. Início às 13:00 CEST. Fim anunciado às 12:59 CEST: minuto incluído, limite exclusivo às 13:00 CEST. Confirmar precisão de segundos na fonte histórica antes da análise final."
+    },
+    "cohort_source": "https://www.faceit.com/pt/cs2/rank/matchmaking?country=none&region=EU&season=8",
+    "final_ranking_confirmed": false,
+    "expected_players": 1000,
+    "competition_ids": [
+      "f4148ddd-bce8-41b8-9131-ee83afcdd6dd"
+    ],
+    "notes": "Lista final Challenger EU ainda não obtida. Recorte temporal das partidas de donk reproduz 160 jogos, 122 vitórias e 38 derrotas da imagem do usuário. Todos os 160 são da Europe 5v5 Queue. A Challenger Queue encontrada na janela ampliada aparece somente após o encerramento; não foi incluída automaticamente."
+  },
+  "matches": 160,
+  "wins": 122,
+  "losses": 38,
+  "kills": 3996,
+  "deaths": 2392,
+  "kd_ratio_of_totals": 1.6705685618729098,
+  "duplicate_match_ids": 0,
+  "screenshot_reference": {
+    "matches": 160,
+    "wins": 122,
+    "losses": 38
+  },
+  "screenshot_counts_match": true,
+  "boundary_minute_matches": [],
+  "history_returned_outside_query_window": 5,
+  "query_note": "A API retornou partidas além do limite solicitado. O recorte é aplicado localmente pelo finished_at.",
+  "sha256": {
+    "history.json": "f1e5d907a744858217121476ef90b3c245d64eb30a485628c51f57244dd0fd01",
+    "matches.csv": "b667aa59cf2fe02f14c8d7a827aab3a1429184bf8f319b4b1748c04d891a4fe5",
+    "season8_matches.csv": "e0ec3d2daa2a276d326f600dcfc410b0d3a024fda7a84388fee3a40348bbfaf6"
+  }
+}

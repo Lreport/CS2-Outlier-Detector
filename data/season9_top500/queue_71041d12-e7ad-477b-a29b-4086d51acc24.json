@@ -1,0 +1,18 @@
+{
+  "id": "71041d12-e7ad-477b-a29b-4086d51acc24",
+  "name": "Middle East 5v5 Queue",
+  "game": "cs2",
+  "region": "EU",
+  "icon": "",
+  "short_description": "",
+  "long_description": "The game consists of 24 rounds, with each team switching sides after 12 rounds. The first team to win 13 rounds wins the match, with overtime series played if the game ends in a tie. The round time is 1m 55s and the bomb timer is 40s. Match starts with a knife round.\n\nWinner team's captain gets the right to choose the starting side.",
+  "queues": [
+    {
+      "id": "671270e3d43e4804525e1d28",
+      "name": "CS2 5v5 Middle East",
+      "organizer_id": "faceit",
+      "open": true,
+      "paused": false
+    }
+  ]
+}

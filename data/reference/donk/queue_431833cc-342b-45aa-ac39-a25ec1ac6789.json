@@ -1,0 +1,18 @@
+{
+  "id": "431833cc-342b-45aa-ac39-a25ec1ac6789",
+  "name": "FACEIT Challenger Queue",
+  "game": "cs2",
+  "region": "EU",
+  "icon": "",
+  "short_description": "",
+  "long_description": "",
+  "queues": [
+    {
+      "id": "6a63887d3da38493945463fe",
+      "name": "CS2 EU Challenger Queue",
+      "organizer_id": "faceit",
+      "open": false,
+      "paused": false
+    }
+  ]
+}

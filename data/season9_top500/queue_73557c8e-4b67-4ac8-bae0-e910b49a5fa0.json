@@ -1,0 +1,19 @@
+{
+  "id": "73557c8e-4b67-4ac8-bae0-e910b49a5fa0",
+  "name": "South America 5V5 Queue",
+  "game": "cs2",
+  "region": "SA",
+  "icon": "",
+  "short_description": "",
+  "long_description": "The game consists of 24 rounds, with each team switching sides after 12 rounds. The first team to win 13 rounds wins the match, with overtime series played if the game ends in a tie. The round time is 1m 55s and the bomb timer is 40s. Match starts with a knife round.\n\nWinner team's captain gets the right to choose the starting side.",
+  "queues": [
+    {
+      "id": "649da935e9c00251f529498d",
+      "name": "CS2 5v5 SA",
+      "organizer_id": "faceit",
+      "open": true,
+      "paused": false
+    }
+  ],
+  "league_id": "54963022-c757-4835-a2ff-2a15276145c6"
+}

@@ -1,0 +1,19 @@
+{
+  "dataset_kind": "official_reference",
+  "complete": true,
+  "collected_at_utc": "2026-10-01T18:01:23.852170+00:00",
+  "source": "https://open.faceit.com/data/v4",
+  "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+  "query_start_utc": "2026-04-21T00:00:00+00:00",
+  "query_end_utc": "2026-08-06T00:00:00+00:00",
+  "notice": "Janela ampla de aquisição. Não é o grupo final Challenger nem a análise da Season 8. Horários de corte e lista final pendentes.",
+  "history_records": 173,
+  "expected_matchmaking_matches": 173,
+  "collected_matches": 173,
+  "requests": 0,
+  "cache_hits": 175,
+  "sha256": {
+    "matches.csv": "b667aa59cf2fe02f14c8d7a827aab3a1429184bf8f319b4b1748c04d891a4fe5",
+    "history.json": "f1e5d907a744858217121476ef90b3c245d64eb30a485628c51f57244dd0fd01"
+  }
+}

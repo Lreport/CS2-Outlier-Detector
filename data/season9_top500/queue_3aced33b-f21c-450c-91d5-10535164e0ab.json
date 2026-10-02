@@ -1,0 +1,19 @@
+{
+  "id": "3aced33b-f21c-450c-91d5-10535164e0ab",
+  "name": "North America 5V5 Queue",
+  "game": "cs2",
+  "region": "NA",
+  "icon": "",
+  "short_description": "",
+  "long_description": "The game consists of 24 rounds, with each team switching sides after 12 rounds. The first team to win 13 rounds wins the match, with overtime series played if the game ends in a tie. The round time is 1m 55s and the bomb timer is 40s. Match starts with a knife round.\n\nWinner team's captain gets the right to choose the starting side.",
+  "queues": [
+    {
+      "id": "649da739e9c00251f529494f",
+      "name": "CS2 5v5 NA",
+      "organizer_id": "faceit",
+      "open": true,
+      "paused": false
+    }
+  ],
+  "league_id": "e898f98a-42cd-4ee6-a64b-55f54aaae214"
+}

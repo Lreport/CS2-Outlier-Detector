@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "nickname": "donk666",
+      "country": "kr",
+      "position": 1,
+      "faceit_elo": 5053,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "74df0e6b-5b41-42d7-93b4-05dc78b9a699",
+      "nickname": "dem0nnnnnnnn",
+      "country": "is",
+      "position": 2,
+      "faceit_elo": 4921,
+      "game_skill_level": 10
+    },
+    {
+      "player_id": "33c4e3c7-5428-46f2-bc0f-3fbdce907873",
+      "nickname": "abiraju",
+      "country": "by",
+      "position": 3,
+      "faceit_elo": 4863,
+      "game_skill_level": 10
+    }
+  ],
+  "start": 0,
+  "end": 3
+}

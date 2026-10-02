@@ -1,0 +1,448 @@
+{
+  "all_checks_pass": true,
+  "sample_size": 56,
+  "sampling": "Posições espaçadas na lista; extremos temporais por jogador; duas partidas por semana do donk; maior K/D semanal. Não é amostragem probabilística.",
+  "individual_match_checks": [
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-7a2431ee-8f1a-4581-b1ef-57ed99d446af",
+      "kills": 17,
+      "deaths": 16,
+      "agrees": true
+    },
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-17dcbb48-2142-45bd-be11-ecadbddf52ec",
+      "kills": 21,
+      "deaths": 17,
+      "agrees": true
+    },
+    {
+      "player_id": "821d2f75-a314-48d7-8a90-5d2f152e761a",
+      "match_id": "1-cac7e754-8398-4906-8b41-d6785c048e75",
+      "kills": 4,
+      "deaths": 17,
+      "agrees": true
+    },
+    {
+      "player_id": "821d2f75-a314-48d7-8a90-5d2f152e761a",
+      "match_id": "1-ed1274d5-08b7-4786-9162-64f6a52be71e",
+      "kills": 14,
+      "deaths": 14,
+      "agrees": true
+    },
+    {
+      "player_id": "86ff5145-8f7f-49f2-b971-c9945f696e71",
+      "match_id": "1-2f38e2a5-d0c6-4430-a85e-278832ad0656",
+      "kills": 19,
+      "deaths": 7,
+      "agrees": true
+    },
+    {
+      "player_id": "86ff5145-8f7f-49f2-b971-c9945f696e71",
+      "match_id": "1-9beb2132-331a-4efc-90d1-60ed86b71227",
+      "kills": 33,
+      "deaths": 21,
+      "agrees": true
+    },
+    {
+      "player_id": "07a67e4b-d42c-4352-802c-56f3d8a0c357",
+      "match_id": "1-50ae01d5-fd98-41c3-9317-da24d3f08a2c",
+      "kills": 17,
+      "deaths": 10,
+      "agrees": true
+    },
+    {
+      "player_id": "07a67e4b-d42c-4352-802c-56f3d8a0c357",
+      "match_id": "1-8eda7c1d-840f-4204-ab66-c0ae2ba97e76",
+      "kills": 17,
+      "deaths": 14,
+      "agrees": true
+    },
+    {
+      "player_id": "790ce1ad-38e3-4a45-b44a-5d33658102e6",
+      "match_id": "1-2cfb32f5-e2e0-4bad-8948-236f17acd223",
+      "kills": 17,
+      "deaths": 9,
+      "agrees": true
+    },
+    {
+      "player_id": "790ce1ad-38e3-4a45-b44a-5d33658102e6",
+      "match_id": "1-d28092f2-ac73-44db-8b8a-ef9792289c59",
+      "kills": 27,
+      "deaths": 23,
+      "agrees": true
+    },
+    {
+      "player_id": "cb0cc456-8ae0-438f-bf8b-4e000e4e0476",
+      "match_id": "1-d92b209b-ea3c-40f3-bc17-5e17a57041b8",
+      "kills": 12,
+      "deaths": 14,
+      "agrees": true
+    },
+    {
+      "player_id": "cb0cc456-8ae0-438f-bf8b-4e000e4e0476",
+      "match_id": "1-933c4527-5f57-4acb-b01f-1832e2dd4aea",
+      "kills": 6,
+      "deaths": 14,
+      "agrees": true
+    },
+    {
+      "player_id": "95adb33f-5e6f-4c6d-be25-f2e8b1d9c628",
+      "match_id": "1-f83962a7-b3a4-4eeb-b6c2-df4eb14446b1",
+      "kills": 22,
+      "deaths": 12,
+      "agrees": true
+    },
+    {
+      "player_id": "95adb33f-5e6f-4c6d-be25-f2e8b1d9c628",
+      "match_id": "1-aa8060e9-1c66-4890-9699-194d0d955798",
+      "kills": 13,
+      "deaths": 19,
+      "agrees": true
+    },
+    {
+      "player_id": "43febbb3-7f82-47c0-88fa-e2f122d5f20e",
+      "match_id": "1-5000a8f9-cfbb-479c-a137-819e22575758",
+      "kills": 10,
+      "deaths": 9,
+      "agrees": true
+    },
+    {
+      "player_id": "43febbb3-7f82-47c0-88fa-e2f122d5f20e",
+      "match_id": "1-c408d886-bf1d-4a57-914f-2ffdefb74115",
+      "kills": 15,
+      "deaths": 16,
+      "agrees": true
+    },
+    {
+      "player_id": "eba3dd73-7d26-46ad-b766-85c5ae0d9273",
+      "match_id": "1-6d534382-ee73-48d0-9bfe-93472b2b5e0e",
+      "kills": 20,
+      "deaths": 15,
+      "agrees": true
+    },
+    {
+      "player_id": "eba3dd73-7d26-46ad-b766-85c5ae0d9273",
+      "match_id": "1-00f5ea2f-0d3b-4e99-a1e6-8adc134c44c9",
+      "kills": 35,
+      "deaths": 18,
+      "agrees": true
+    },
+    {
+      "player_id": "5ce742a9-a319-4e89-8164-4f4ca528c4cc",
+      "match_id": "1-a9b58ede-bfbf-4e6c-a174-338082250b31",
+      "kills": 32,
+      "deaths": 24,
+      "agrees": true
+    },
+    {
+      "player_id": "5ce742a9-a319-4e89-8164-4f4ca528c4cc",
+      "match_id": "1-8e93c0b9-0e75-4d5b-93ca-513d0cd848e5",
+      "kills": 20,
+      "deaths": 16,
+      "agrees": true
+    },
+    {
+      "player_id": "d0bad1c0-551e-40cb-8535-137ea7104ff6",
+      "match_id": "1-d0831d47-5654-4ec6-8617-d824748ec816",
+      "kills": 18,
+      "deaths": 15,
+      "agrees": true
+    },
+    {
+      "player_id": "d0bad1c0-551e-40cb-8535-137ea7104ff6",
+      "match_id": "1-bc9e21c5-fb81-4497-b4e5-5017dbe17320",
+      "kills": 24,
+      "deaths": 8,
+      "agrees": true
+    },
+    {
+      "player_id": "36b19d20-ddac-466d-9868-b73f0212c3ad",
+      "match_id": "1-8caeac03-5638-489c-b379-40bb8ffa5b70",
+      "kills": 14,
+      "deaths": 12,
+      "agrees": true
+    },
+    {
+      "player_id": "36b19d20-ddac-466d-9868-b73f0212c3ad",
+      "match_id": "1-7c712da0-182c-4d78-bb03-1bdcb1ec4a32",
+      "kills": 32,
+      "deaths": 33,
+      "agrees": true
+    },
+    {
+      "player_id": "abe4d53f-ed16-49fc-8d86-3d1abac2d5ef",
+      "match_id": "1-7ac57d03-f8ff-4c13-ad4b-4fd5ace563b2",
+      "kills": 5,
+      "deaths": 13,
+      "agrees": true
+    },
+    {
+      "player_id": "abe4d53f-ed16-49fc-8d86-3d1abac2d5ef",
+      "match_id": "1-390c6511-ba2e-47a9-9911-8b070f936cc6",
+      "kills": 9,
+      "deaths": 16,
+      "agrees": true
+    },
+    {
+      "player_id": "3c1ca83f-5c0b-48c9-9efb-86e02999bad4",
+      "match_id": "1-fac42086-f87f-46be-af12-c2cd173ed53e",
+      "kills": 29,
+      "deaths": 17,
+      "agrees": true
+    },
+    {
+      "player_id": "3c1ca83f-5c0b-48c9-9efb-86e02999bad4",
+      "match_id": "1-44c22f1e-9742-40c1-9d8a-39dc72720e8b",
+      "kills": 17,
+      "deaths": 9,
+      "agrees": true
+    },
+    {
+      "player_id": "4396868f-64f7-4847-8443-4703685a0aef",
+      "match_id": "1-339fcab6-1690-4cc2-bf05-fb24e529edd9",
+      "kills": 24,
+      "deaths": 18,
+      "agrees": true
+    },
+    {
+      "player_id": "4396868f-64f7-4847-8443-4703685a0aef",
+      "match_id": "1-42eddd46-419b-4940-87d3-dbc2a9f47e38",
+      "kills": 18,
+      "deaths": 6,
+      "agrees": true
+    },
+    {
+      "player_id": "a20678de-0c2d-4a9f-bf8e-3c856bceab45",
+      "match_id": "1-9831738e-6a83-44c3-aece-2b27d46e58b5",
+      "kills": 14,
+      "deaths": 12,
+      "agrees": true
+    },
+    {
+      "player_id": "a20678de-0c2d-4a9f-bf8e-3c856bceab45",
+      "match_id": "1-12a80333-3a39-4262-95e6-c95f7c2fe539",
+      "kills": 39,
+      "deaths": 18,
+      "agrees": true
+    },
+    {
+      "player_id": "1bce43de-6944-4533-8402-4631f989c56c",
+      "match_id": "1-06fc05fe-268c-495b-ab6e-a016a7ac6f00",
+      "kills": 19,
+      "deaths": 11,
+      "agrees": true
+    },
+    {
+      "player_id": "1bce43de-6944-4533-8402-4631f989c56c",
+      "match_id": "1-bfeb97df-15ee-41c6-96da-af3b6b43ceac",
+      "kills": 24,
+      "deaths": 18,
+      "agrees": true
+    },
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-a909de79-3326-4f62-a077-359203c665aa",
+      "kills": 20,
+      "deaths": 18,
+      "agrees": true
+    },
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-0a5c4601-7958-4ab9-8220-ef6afad726c9",
+      "kills": 23,
+      "deaths": 12,
+      "agrees": true
+    },
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-d819d9af-cd38-475d-8f45-33ed6e504263",
+      "kills": 23,
+      "deaths": 19,
+      "agrees": true
+    },
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-1fbe25c4-5c63-4708-8298-fd074e26978d",
+      "kills": 21,
+      "deaths": 18,
+      "agrees": true
+    },
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-2c40d55c-5398-4003-9d21-31433ba658e6",
+      "kills": 10,
+      "deaths": 14,
+      "agrees": true
+    },
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-712b9368-f0cf-44d8-a8f5-ab643796b4d1",
+      "kills": 25,
+      "deaths": 18,
+      "agrees": true
+    },
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-7c4b49a8-2148-4f94-8926-a1976bed86d2",
+      "kills": 23,
+      "deaths": 19,
+      "agrees": true
+    },
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-bfeb0744-fb37-4f39-9a6c-9f543649f5ad",
+      "kills": 17,
+      "deaths": 12,
+      "agrees": true
+    },
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-9be6d5a6-abda-4110-908d-deae67dee533",
+      "kills": 17,
+      "deaths": 13,
+      "agrees": true
+    },
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-8556a3f2-3a9e-4f07-84dc-9a2a99f60cb4",
+      "kills": 31,
+      "deaths": 16,
+      "agrees": true
+    },
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-081a4432-da69-4735-b78d-7c1ac27832f8",
+      "kills": 24,
+      "deaths": 13,
+      "agrees": true
+    },
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-14c51663-ab14-4f62-a33e-a11c28021746",
+      "kills": 26,
+      "deaths": 16,
+      "agrees": true
+    },
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-b66b5fe2-2cac-46d6-ae7d-5886a67e81fd",
+      "kills": 23,
+      "deaths": 11,
+      "agrees": true
+    },
+    {
+      "player_id": "e5e8e2a6-d716-4493-b949-e16965f41654",
+      "match_id": "1-fb7c15ca-537e-45f0-a66e-164b292a4f4c",
+      "kills": 34,
+      "deaths": 21,
+      "agrees": true
+    },
+    {
+      "player_id": "b87eadad-7829-4f17-a85a-281ff569829a",
+      "match_id": "1-1a613098-1d3c-416a-870f-df0bcb88e89b",
+      "kills": 27,
+      "deaths": 10,
+      "agrees": true
+    },
+    {
+      "player_id": "6db5e566-77ae-4c30-852d-4fa54c4445aa",
+      "match_id": "1-26a440a2-0fb2-4a4b-adda-f4ee9f900d3a",
+      "kills": 27,
+      "deaths": 12,
+      "agrees": true
+    },
+    {
+      "player_id": "e5b77795-ddbc-418b-a72a-e8e8e2787d54",
+      "match_id": "1-2a9f0e25-dae8-4580-ae2b-4a450e61ccf5",
+      "kills": 22,
+      "deaths": 11,
+      "agrees": true
+    },
+    {
+      "player_id": "64000660-f2d2-4c9b-8e29-6ad5ec2b49cf",
+      "match_id": "1-63db8ab1-aa04-4736-8a21-af930781aee3",
+      "kills": 31,
+      "deaths": 15,
+      "agrees": true
+    },
+    {
+      "player_id": "2a82893f-3a7e-4458-9141-0b19673fa049",
+      "match_id": "1-2090a71b-ca69-4c54-80a7-c0d33d53c1ea",
+      "kills": 43,
+      "deaths": 18,
+      "agrees": true
+    },
+    {
+      "player_id": "dcc5bb48-c74c-413e-9773-20d3294dcbb0",
+      "match_id": "1-12e4f527-39df-4e73-8a06-36c79b853903",
+      "kills": 32,
+      "deaths": 17,
+      "agrees": true
+    },
+    {
+      "player_id": "36f96e7b-6bf3-48b1-8f1a-cd35aee83702",
+      "match_id": "1-6ddb2e77-4046-4f1c-9139-ed3e4e462dcc",
+      "kills": 23,
+      "deaths": 9,
+      "agrees": true
+    },
+    {
+      "player_id": "7dfc0c4c-28a0-4126-8b97-349ba09bc314",
+      "match_id": "1-cd470079-8368-4145-97fc-ac4c235d80a5",
+      "kills": 27,
+      "deaths": 13,
+      "agrees": true
+    }
+  ],
+  "aggregation_totals_match": true,
+  "queues": [
+    {
+      "id": "3aced33b-f21c-450c-91d5-10535164e0ab",
+      "name": "North America 5V5 Queue",
+      "region": "NA",
+      "player_match_rows": 11
+    },
+    {
+      "id": "431833cc-342b-45aa-ac39-a25ec1ac6789",
+      "name": "FACEIT Challenger Queue",
+      "region": "EU",
+      "player_match_rows": 1934
+    },
+    {
+      "id": "71041d12-e7ad-477b-a29b-4086d51acc24",
+      "name": "Middle East 5v5 Queue",
+      "region": "EU",
+      "player_match_rows": 212
+    },
+    {
+      "id": "73557c8e-4b67-4ac8-bae0-e910b49a5fa0",
+      "name": "South America 5V5 Queue",
+      "region": "SA",
+      "player_match_rows": 44
+    },
+    {
+      "id": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+      "name": "Europe 5v5 Queue",
+      "region": "EU",
+      "player_match_rows": 81123
+    },
+    {
+      "id": "f950356c-8080-414a-bdc0-b8cd94974356",
+      "name": "SEA 5V5 Queue",
+      "region": "SEA",
+      "player_match_rows": 16
+    }
+  ],
+  "audit": {
+    "input_rows": 83340,
+    "exact_duplicates_removed": 0,
+    "outside_cohort_rows": 0,
+    "outside_period_rows": 0,
+    "eligible_player_match_rows": 83340,
+    "missing_player_match_rows": 33,
+    "incomplete_player_weeks": 33
+  },
+  "collection_manifest_sha256": "8012d822e149b41efc6dcc8b02f4d707876a0ef576ba416a3352ec86975e9f88"
+}

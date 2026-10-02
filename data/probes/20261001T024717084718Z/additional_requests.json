@@ -1,0 +1,20 @@
+[
+  {
+    "label": "matchmaking_details",
+    "url": "https://open.faceit.com/data/v4/matchmakings/f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+    "status": 200,
+    "file": "matchmaking_details.json"
+  },
+  {
+    "label": "matchmaking_league",
+    "url": "https://open.faceit.com/data/v4/leagues/ede44bb8-89f1-4059-b112-eadc28e332fd",
+    "status": 200,
+    "file": "matchmaking_league.json"
+  },
+  {
+    "label": "league_season_8_candidate",
+    "url": "https://open.faceit.com/data/v4/leagues/ede44bb8-89f1-4059-b112-eadc28e332fd/seasons/8",
+    "status": 200,
+    "file": "league_season_8_candidate.json"
+  }
+]
